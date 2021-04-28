@@ -1,0 +1,18 @@
+D:\DemoCapas ASP.NET-SQL Server\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\DemoCapas ASP.NET-SQL Server\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\DemoCapas ASP.NET-SQL Server\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\DemoCapas ASP.NET-SQL Server\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\user\Documents\visual_2017_trabajos\DemoCapas ASP.NET-SQL Server\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\user\Documents\visual_2017_trabajos\DemoCapas ASP.NET-SQL Server\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\user\Documents\visual_2017_trabajos\DemoCapas ASP.NET-SQL Server\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\user\Documents\visual_2017_trabajos\DemoCapas ASP.NET-SQL Server\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\visual_2017_trabajos\DemoCapas ASP.NET-SQL Server\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\user\Documents\visual_2017_trabajos\DemoCapas ASP.NET-SQL Server\CapaEntidad\obj\Debug\CapaEntidad.pdb
